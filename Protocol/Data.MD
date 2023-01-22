@@ -10,7 +10,7 @@ Curator accounts can create playlists or slectively share already published cont
 Artist identity in MilkWire is based around an artis't address. In ethereum addresses can either be externally owned accounts (EOA) or Contract accounts. 
 When an artist creates an account on MilkWire they are registering a new artist address on the MilkWire index. 
 
-The milkwire index is 
+The milkwire index is a smart contract that is able to keep a sequential list of all published work by an artist. 
 
 ## How is content stored on MilkWire?
 
@@ -20,4 +20,3 @@ IPFS (The InterPlanetary File System) https://ipfs.tech/ is the backbone of the 
 IPFS allows content to be addressesd by a universal content identifier (CID). This CID is used to retrieve the data from the p2p network
 through either a local node or a remote gateway.
 
-## 
