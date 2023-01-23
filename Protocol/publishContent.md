@@ -17,7 +17,7 @@ Content is published on MilkWire using the following process:
 
 
 
-##Quick primer 
+## Quick primer 
 
 ### What is IPFS
 
